@@ -13,7 +13,7 @@ const elts = {
     "There’s",
     "a ghost",
     "in me",
-    "Who wants", 
+    "who wants", 
     "to say",
     "I’m sorry.",
     "Doesn’t mean", 
